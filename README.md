@@ -1,2 +1,2 @@
 # site-beauty-store-coderhouse
-Projeto de página web confeccionado como atividade de curso HTML/CSS da Coderhouse
+Projeto de e-commerce de cosméticos confeccionado como atividade de curso HTML/CSS da Coderhouse
