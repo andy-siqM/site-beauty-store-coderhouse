@@ -1,5 +1,5 @@
 # 🌸 Beauty Shop E-commerce
-Plataforma simples de e-commerce para vender uma ampla gama de cosméticos com destaque para maquiagem, perfurme e cuidados com cabelo. O projeto foi idealizado e desenvolvido como atividade de curso HTML/CSS da Coderhouse.
+Plataforma simples de e-commerce para vender uma ampla gama de cosméticos com destaque para maquiagem, perfume e cuidados com cabelo. O projeto foi idealizado e desenvolvido como atividade de curso HTML/CSS da Coderhouse.
 
 ## 🔗 Links
 - [Deployed App (Vercel)](https://site-beauty-store-coderhouse.vercel.app/)
@@ -26,16 +26,16 @@ Plataforma simples de e-commerce para vender uma ampla gama de cosméticos com d
 Clone the repository:
 [git clone https://github.com/yourusername/beauty-shop-ecommerce.git](https://github.com/andy-siqM/site-beauty-store-coderhouse.git)
 
-Install dependencies:
+Instale as dependências da aplicação:
 bundle install
 
-Start the development server:
+Starte o servidor de desenvolvimento:
 npm start
 
-Build the production version:
+Build a versão produzida:
 npm run build
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Copie e cole o link [http://localhost:3000](http://localhost:3000) em seu browser/navegador web.
 
 ## 🧑‍💻 Contribuição
 Contribuição são bem-vindas! Por favor, se quiser colaborar, fork o repositório e envie uma pull request. Sou uma mera aspirante a programação, então qualquer ajuda é válida 😅
@@ -48,8 +48,10 @@ Contribuição são bem-vindas! Por favor, se quiser colaborar, fork o repositó
 ## 🪲 Bug 
 Se encontrar algum bug, por favor, crie uma issue na aba Issues com mais detalhes sobre o erro e o procedimento que o ocasionou. Irei conferir e corrigir assim que possível!
 
+## 🫰 Conclusão 
+A plataforma produzida é uma forma de exercitar meu aprendizado nas ferramentas de front-end mais requisitadas do mercado. 
+
+Apesar da sua simplicidade, o projeto consegue atender aos requisitos básicos de uma landing page comercial, cumprindo aspectos do design web moderno como arquitetura delimitada em seções, responsividade, legibilidade, flexbox, grid, CSS inteligente, script funcional, animações e botões interativos.
+
 Agradeço a leitura :blush:
-
-
-
 
