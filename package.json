@@ -1,0 +1,23 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "Projeto de e-commerce de cosméticos confeccionado como atividade de curso HTML/CSS da Coderhouse",
+  "homepage": "https://github.com/andy-siqM/site-beauty-store-coderhouse#readme",
+  "bugs": {
+    "url": "https://github.com/andy-siqM/site-beauty-store-coderhouse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy-siqM/site-beauty-store-coderhouse.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.89.0"
+  }
+}

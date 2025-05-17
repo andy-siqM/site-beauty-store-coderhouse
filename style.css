@@ -30,7 +30,7 @@
     --space-xl: 2rem;               /* 32px */
     
     /* Bordas e sombras */
-    --border-radius-sm: 4px;
+    --border-radius-sm: 1px;
     --border-radius-md: 8px;
     --box-shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
     
@@ -74,12 +74,13 @@
   
 .header-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 var(--space-md);
     gap: var(--space-md);
+    /* width: 100vh; */
 }
   
 .logo {
@@ -211,6 +212,8 @@
 /* seção de produtos vendidos */
 .products-section {
     padding: var(--space-xl) 0;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
 }
   
 .section-title {
@@ -277,6 +280,7 @@
 .testimonials {
     background-color: var(--light-color);
     padding: var(--space-xl) 0;
+    margin-top: 2.5rem;
 }
   
 .testimonials-container {
@@ -305,6 +309,7 @@
     box-shadow: var(--box-shadow-sm);
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
 }
   
 .testimonial-text {
