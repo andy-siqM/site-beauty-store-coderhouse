@@ -1,11 +1,11 @@
 # 🌸 Beauty Shop E-commerce
 Plataforma simples de e-commerce para vender uma ampla gama de cosméticos com destaque para maquiagem, perfurme e cuidados com cabelo. O projeto foi idealizado e desenvolvido como atividade de curso HTML/CSS da Coderhouse.
 
-## Links
+## 🔗 Links
 - [Deployed App (Vercel)](https://site-beauty-store-coderhouse.vercel.app/)
 
 ## ✨ Features
-- Confira uma variedade de produtos de beleza (maquiagem, skincare, haircare, perfurmes);
+- Confira uma variedade de produtos de beleza (maquiagem, skincare, haircare, perfumes);
 - Página detalhada com imagens, descrições e revisões de consumidores;
 - Botões interativos e animações simples;
 - Registro de usuário e login (WIP);
@@ -46,7 +46,7 @@ Contribuição são bem-vindas! Por favor, se quiser colaborar, fork o repositó
 5. Abra uma pull request.
 
 ## 🪲 Bug 
-Se encontrar algum bug, por favor, crie uma issue na aba Issues tab com mais detalhes sobre o erro e o procedimento que o ocasionou.
+Se encontrar algum bug, por favor, crie uma issue na aba Issues com mais detalhes sobre o erro e o procedimento que o ocasionou. Irei conferir e corrigir assim que possível!
 
 Agradeço a leitura :blush:
 
