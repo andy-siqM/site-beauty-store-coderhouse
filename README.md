@@ -38,17 +38,17 @@ npm run build
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🧑‍💻 Contribuição
-Contribuição são bem-vindas! Por favor, se quiser colaborar, fork o repositório e envie uma pull request. Sou uma mera aspirante a programação, então qualquer ajuda é válida!
+Contribuição são bem-vindas! Por favor, se quiser colaborar, fork o repositório e envie uma pull request. Sou uma mera aspirante a programação, então qualquer ajuda é válida 😅
 1. Fork o repositório;
 2. Crie sua própria branch com uma nova feature (`git checkout -b feature/sua-feature`);
 3. Commite suas alterações (`git commit -am 'Adicionei nova feature'`);
 4. Dê push e envie a branch ao repositório remoto (`git push origin feature/your-feature`);
 5. Abra uma pull request.
 
-## Bug?  
+## 🪲 Bug 
 Se encontrar algum bug, por favor, crie uma issue na aba Issues tab com mais detalhes sobre o erro e o procedimento que o ocasionou.
 
-Agradeço a leitura :D
+Agradeço a leitura :blush:
 
 
 
